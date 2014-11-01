@@ -1,0 +1,19 @@
+{
+  "name": "Fuel Control",
+  "version": "1.0",
+  "description": "A simple fuel control app",
+  "launch_path": "/index.html",
+  "permissions": {
+    "storage": {
+      "description": "Required for storing and retrieving notes."
+      }
+  },
+  "developer": {
+    "name": "GRT",
+    "url": "http://cct.udesc.br/"
+  },
+  "icons": {
+    "60": "/style/icons/icon60.png",
+    "128": "/style/icons/icon128.png"
+  }
+}
